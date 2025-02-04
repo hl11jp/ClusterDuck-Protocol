@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['operator_3d_159',['operator=',['../class_duck.html#aaa676acc8bd171a20c18d74aaa5fd111',1,'Duck']]],
-  ['otapage_2eh_160',['OTAPage.h',['../_o_t_a_page_8h.html',1,'']]]
+  ['not_5facked_0',['not_acked',['../_duck_8h.html#a5931873aef9ff172ae93e721a3f84aa9aea982f6099ea8391466714b613ea006d',1,'Duck.h']]]
 ];
